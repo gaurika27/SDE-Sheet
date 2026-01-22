@@ -26,8 +26,6 @@ n == matrix[0].length
 
 # Brute force
 
-O(m*n)
-
 ````
 class Solution {
 public:
